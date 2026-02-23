@@ -2,9 +2,6 @@
 data/
 facialrecognitiondata/
 
-# Models
-models/*.h5
-models/*.keras
 
 # Python
 __pycache__/
